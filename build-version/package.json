@@ -1,0 +1,10 @@
+{
+  "name": "build-version",
+  "version": "1.0.0",
+  "description": "increments build number on every build & applies build number to ios/info.plist,android/build.gradle. Additionaly shows current build number in console",
+  "author": "markusT/inkfood.com",
+  "main": "main.js",
+  "dependencies": {
+    "plist": "^3.0.1"
+  }
+}
